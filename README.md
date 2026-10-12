@@ -4,10 +4,6 @@ _Cà Phê Đen_ means "black coffee" in Vietnamese.
 
 Strong Vietnamese black coffee wakes you up, keeps you focused, and powers you through a long day. **Cà Phê Đen** does the same for your Mac — it keeps it awake using macOS's native `caffeinate` command.
 
-## Why?
-
-The author drinks strong Vietnamese Cà Phê Đen to stay awake and focused while working in Vietnam. This little CLI is the digital equivalent: a no-fuss way to prevent your Mac from going to sleep while you run long builds, downloads, presentations, or focus sessions.
-
 ## Features
 
 - **Interactive wizard**: Launch `capheden` with no arguments and choose your duration through a polished Ink TUI.
